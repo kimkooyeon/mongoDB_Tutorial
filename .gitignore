@@ -1,4 +1,4 @@
 venv
 .idea
 *.spec
-.secret
+settingSecret.py

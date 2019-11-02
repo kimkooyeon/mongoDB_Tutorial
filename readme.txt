@@ -9,4 +9,4 @@ pip3 install -r requirements.txt
 
 # Install requirements manually
 pip3 install pymongo
-
+pip3 install dnspython
