@@ -48,9 +48,9 @@ collection = db['user']
 # print(result1['name'], result1['email'])
 
 # FIND ALL
-# results = collection.find()
-# for r in results:
-#     print(r)
+results = collection.find()
+for r in results:
+    print(r)
 #     print(r['name'], r['email'])
 
 # DELETE A RECORD
